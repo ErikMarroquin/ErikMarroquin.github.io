@@ -1,0 +1,26 @@
+h1{
+  color: red
+}
+
+h2{
+  color: red
+}
+p{
+  color: white
+}
+a {
+    color: white;
+}
+
+
+
+body{
+  background-image: url("/home/hc02/Documents/ErikMarroquin2.github.io/Just-Before-Sunrise-in-San-Francisco-Bay-Bridge-Wallpapers.jpg");no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+ }
+ .headerfored h1{
+   color: blue;
+ }
